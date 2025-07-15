@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Lynda
-- 🌱 I’m an aspiring Front-end developer. 
-- 💞️ I’m looking to collaborate on (not sure yet ) I'm a newbie 
+- 👋 Hi, I’m Buhle Lynda
+- 🌱 I’m an aspiring AI / ML Engineer. 
 - 📫 How to reach me lyndanobuhlezondo@gmail.com
 
 <!---
